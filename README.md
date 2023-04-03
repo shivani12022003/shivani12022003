@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivani12022003
 - 👀 I’m interested in web develpoment and programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning expessjs
 - 💞️ I’m looking to collaborate on .. 
 - 📫 How to reach me skumari12022003@gmail.com
 
